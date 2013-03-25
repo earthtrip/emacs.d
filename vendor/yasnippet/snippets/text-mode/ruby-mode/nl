@@ -1,0 +1,4 @@
+#name : NiceLogger
+#group : general
+# --
+NiceLogger.debug_nice($0)

@@ -1,0 +1,7 @@
+.DS_Store
+auto-save-list/*
+elpa/*
+eshell/*
+*.pyc
+*.dat
+static/css/.sass-cache
